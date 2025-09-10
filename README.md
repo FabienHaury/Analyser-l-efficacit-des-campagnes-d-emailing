@@ -69,6 +69,5 @@ Ce projet propose une analyse des performances de campagnes d’emailing (taux d
 ---
 
 ## Contact
-Projet mené dans le cadre du **Diplôme Universitaire Data Analyst** (Université de Cergy Paris, 2022).  
-
-📩 [Me contacter](mailto:67912775+FabienHaury@users.noreply.github.com)  
+- 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabienhaury/)
