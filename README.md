@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Analyser l'efficacité des campagnes d'emailing
+
+</div>
 
 Ce projet propose une analyse des performances de campagnes d’emailing (taux d’ouverture, clics, conversions) en utilisant **Python** et **Power BI**, afin d’identifier les meilleures fenêtres temporelles pour maximiser l’impact marketing.  
 
