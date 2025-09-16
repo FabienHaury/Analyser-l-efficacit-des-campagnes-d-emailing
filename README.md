@@ -8,7 +8,7 @@ Ce projet propose une analyse des performances de campagnes d’emailing (taux d
 
 ---
 
-## Données
+## 📊 Données
 - **Source** : [Kaggle - Email Marketing Campaign Dashboard](https://www.kaggle.com/datasets/mariusnikiforovas/email-marketing-campaign-dashboard?select=filtered_dataset.csv)  
 - **Champs principaux** :
   - Informations clients (nom, numéro de compte)
@@ -18,7 +18,7 @@ Ce projet propose une analyse des performances de campagnes d’emailing (taux d
 
 ---
 
-## Préparation des données
+## 🧹 Préparation des données
 - **Filtrage des emails non délivrés** : suppression des cas de rebond.  
 - **Normalisation des campagnes** : renommage pour une meilleure lisibilité analytique.  
 - **Colonnes indicatrices (booléennes)** : génération automatique pour les actions clés (ouverture, clic, achat).  
@@ -33,7 +33,7 @@ Ce projet propose une analyse des performances de campagnes d’emailing (taux d
 
 ---
 
-## Visualisations
+## 🚀 Visualisations
 - Nombre et pourcentage d'ouvertures par campagne  
 ![](https://github.com/FabienHaury/Analyser-l-efficacite-des-campagnes-d-emailing/blob/main/Python/Screenshot/Graphiques/graph_campagne_open.png)
 
@@ -48,7 +48,7 @@ Ce projet propose une analyse des performances de campagnes d’emailing (taux d
 
 ---
 
-## Résultats
+## 📈 Résultats 
 - Taux de rebond très faible : **1,5% en moyenne**, signe d’une excellente qualité de la base emails.  
 - Taux d’ouverture élevé : entre **76,9% et 87,7%** selon les campagnes.  
 - Taux de clics hétérogène : de **8,4%** (campagne 3) jusqu’à **28,3%** (campagne 2).  
@@ -59,19 +59,19 @@ Ce projet propose une analyse des performances de campagnes d’emailing (taux d
 
 ---
 
-## Suggestions
+## 💡 Suggestions  
 - Collecter plus d’informations sur les causes réelles des rebonds (adresses invalides, serveurs inaccessibles…).  
 - Étudier le **contenu des emails** (non disponible ici) pour comprendre le succès de la campagne 2.  
 - Optimiser les envois autour des plages **00h-6h**, qui montrent les meilleures performances d’ouverture.  
 
 ---
 
-## Outils
+## 🛠️ Outils
 - **Python** : Pandas, Numpy, Seaborn (préparation, nettoyage, segmentation, premières analyses visuelles).  
 - **Power BI** : dashboards interactifs, analyses temporelles détaillées, KPIs dynamiques.  
 
 ---
 
-## Contact
+## 📬 Contact  
 - 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabienhaury/)
